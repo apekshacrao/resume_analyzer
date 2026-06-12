@@ -23,6 +23,14 @@ A web-based application that analyzes resumes, identifies skills, calculates res
 - CSS
 - JavaScript
 
+
+## Progress
+
+- Homepage created
+- Login page created
+- Register page created
+- Database schema created
+
 ## Future Enhancements
 
 - ATS Score Calculation
