@@ -35,3 +35,7 @@ A web-based application that analyzes resumes, identifies skills, calculates res
 - ATS Score Calculation
 - AI-Based Suggestions
 - Resume Ranking
+
+## Current Status
+- The project currently includes a home page ,user login and registration pages , and an initial database shema. 
+- Upcoming features include resume upload, skill extraction , resume scoring, job description matching and AI-powered resume suggestion .
