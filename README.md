@@ -38,4 +38,4 @@ A web-based application that analyzes resumes, identifies skills, calculates res
 
 ## Current Status
 - The project currently includes a home page ,user login and registration pages , and an initial database shema. 
-- Upcoming features include resume upload, skill extraction , resume scoring, job description matching and AI-powered resume suggestion .
+- Upcoming features include resume upload, skill extraction , resume scoring, job description matching and AI-powered resume suggestion .now the next step is to install the mysql and establish jdbc connection...
