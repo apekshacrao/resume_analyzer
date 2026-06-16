@@ -2,6 +2,9 @@
 
 A web-based application that analyzes resumes, identifies skills, calculates resume scores, and provides suggestions for improvement.
 
+## Upcoming Features
+User authentication using JDBC and MySQL
+
 ## Features
 
 - User Registration and Login
