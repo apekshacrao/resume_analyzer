@@ -39,6 +39,14 @@ User authentication using JDBC and MySQL
 - AI-Based Suggestions
 - Resume Ranking
 
+  
+## Latest Update
+
+* Added homepage footer for improved navigation and project presentation.
+* Enhanced project documentation with progress tracking.
+* Preparing backend setup using MySQL, JDBC, JSP, and Servlets.
+* Upcoming milestone: User authentication and database connectivity.
+
 ## Current Progress
 - Homepage created with navigation to Login and Register pages.
 - User Login and Registration forms designed.
