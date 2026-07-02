@@ -15,6 +15,8 @@ User authentication using JDBC and MySQL
 - Job Description Matching
 - Improvement Suggestions
 
+- i am full on deep search what to be put into it bcs i have my exams going on .. ok ahhh aste for today ...
+
 ## Technologies Used
 
 - Java
