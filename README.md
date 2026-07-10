@@ -49,7 +49,31 @@ User authentication using JDBC and MySQL
 * Preparing backend setup using MySQL, JDBC, JSP, and Servlets.
 * Upcoming milestone: User authentication and database connectivity.
 
+
+# Resume Analyzer Roadmap
+
+## Completed
+- Homepage
+- Login Page
+- Register Page
+- MySQL Setup
+- Database Schema
+
+## In Progress
+- Java Backend
+
+## Upcoming
+- JDBC Connection
+- User Authentication
+- Resume Upload
+- Resume Parsing
+- Resume Scoring
+- AI Resume Builder
+
+
+
 ## Current Progress
+
 - Homepage created with navigation to Login and Register pages.
 - User Login and Registration forms designed.
 - Initial database schema prepared.
