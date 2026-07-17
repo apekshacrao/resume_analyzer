@@ -10,12 +10,14 @@ CREATE TABLE users (
     password VARCHAR(255) NOT NULL
 );
 
--- Table to store uploaded resumes
-CREATE TABLE resumes (
+-- Resumes table to store uploaded resumes
+CREATE TABLE IF NOT EXISTS resumes (
     id INT PRIMARY KEY AUTO_INCREMENT,
     user_id INT,
     filename VARCHAR(255) NOT NULL,
+    file_path VARCHAR(255),
     upload_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    resume_score INT DEFAULT 0,
     FOREIGN KEY (user_id) REFERENCES users(id)
 );
 
