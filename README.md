@@ -35,11 +35,13 @@ User authentication using JDBC and MySQL
 - Register page created
 - Database schema created
 
+
   ### Recent Updates
 - Configured backend project structure.
 - Added database connection classes.
 - Updated database schema for future resume analysis.
 
+  
 ## Future Enhancements
 
 - ATS Score Calculation
