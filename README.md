@@ -15,6 +15,7 @@ User authentication using JDBC and MySQL
 - Job Description Matching
 - Improvement Suggestions
 
+- Initialized Java backend for database connectivity.
 
 
 ## Technologies Used
